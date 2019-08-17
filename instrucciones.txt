@@ -1,0 +1,11 @@
+Cree un proyecto denominado LaboratorioVCS, algunas herramientas no crean proyectos, por lo que deberá crear una carpeta con el nombre LaboratorioVCS en donde guardará los archivos. 
+
+Cree un Repositorio en GitHub LaboratorioVCSRemoto. 
+
+Inicialice un repositorio Git local en el proyecto creado. 
+
+Cree un archivo llamado instrucciones.txt, en donde guarde cada uno de los numerales de esta lista. 
+
+Cree un archivo de Python llamado main.py, en donde se almacenará el código del ejercicio a realizar. 
+
+Conecte el proyecto al repositorio remoto (recuerde que debe utilizar correctamente el comando git remote add origin ) 
